@@ -19,6 +19,22 @@ Syntax highlighted code block
 #  App Architecture
 
 Contents:
+  [Summary](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#summary)
+  [Decision]()
+  [Status]()
+  [Details]()
+  [Assumptions]()
+  [Constraints]()
+  [Positions]()
+  [Argument]()
+  [Implications]()
+  [Related]()
+  [Related decisions]()
+  [Related requirements]()
+  [Related artifacts]()
+  [Related principles]()
+  [Notes]()
+
 
 ##  Summary
 ###  Decision
