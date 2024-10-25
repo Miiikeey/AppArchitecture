@@ -1,4 +1,4 @@
-#  App Architecture
+#  App Architecture Decisions
 
 Contents:
   - [Summary](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#summary)
@@ -22,7 +22,7 @@ Contents:
 ##  Summary
 
 ### Issue
-We need to determine some architecture decisions for each isssues:
+We need to determine some architecture decisions for each issues:
 - Development Framework
 - Navigation Strategy
 - Hardware
