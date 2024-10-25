@@ -2,6 +2,7 @@
 
 Contents:
   - [Summary](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#summary)
+    - [Issue](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#issue)
     - [Decision](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#decision)
     - [Status](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#status)
   - [Details](https://github.com/Miiikeey/AppArchitecture/blob/main/index.md#details)
@@ -20,14 +21,29 @@ Contents:
 
 ##  Summary
 
+### Issue
+We need to determine some architecture decisions for each isssues:
+- Development Framework
+- Navigation Strategy
+- Hardware
+- Database Storage
 ###  Decision
 
 ###  Status
+Some architecural decisions were already set
+- Target Devices: Android
+- CSS Framework: Bootstrap
+
+For the other architectural decisions we decided on:
+- Development Framework:
+- Navigation Strategy:
+- Hardware:
+- Database Storage:
 
 ##  Details
 
 ###  Assumptions
-
+We are creating a music player app that provides a smooth and simple experience.
 ###  Constraints
 
 ###  Positions
