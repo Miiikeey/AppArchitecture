@@ -28,12 +28,12 @@ We need to determine some architecture decisions for each issues:
 - Hardware
 - Database Storage
 ###  Decision
-- For our development framework we decided on React Native as our team is very design centered. React Native is usually employed in the development of cross-platform applications, seeing that our device target is android were able to write code on JavaScript which will produce high quality UI and a smoother more responsive user ecperience.
+- For our development framework we decided on React Native as our team is very design centered. React Native is usually employed in the development of cross-platform applications, seeing that our device target is android were able to write code on JavaScript which will produce high quality UI and a smoother more responsive user experience.
 - For our navigation strategy we decided on
-- For our hardware we will need to support speakers, bluetooth, haptic feedback and GPS. Our music app will have direct access to device speakers, bluetooth will connect to devices outside the device speaker, haptic feedback will create a immersive feel, and GPS to recomend songs choices for certain locations.
+- For our hardware we will need to support speakers, Bluetooth, haptic feedback and GPS. Our music app will have direct access to device speakers, Bluetooth will connect to devices outside the device speaker, haptic feedback will create a immersive feel, and GPS to recommend song choices for certain locations.
 - For our database storage we decided on SQLite as it was designed for mobile apps. It is compatible with React Native, and it works well with handling playlists, user preferences and more.
 ###  Status
-Some architecural decisions were already set
+Some architectural decisions were already set
 - Target Devices: Android
 - CSS Framework: Bootstrap
 
