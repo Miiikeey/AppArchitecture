@@ -1,0 +1,1 @@
+This repository contains the ADRs for group 3(triads) in relation to the final project. the team is designing a mobile music app, made to run an adroid devices. the work was completed by Himanshu Vipulbhai Rakholiya,Mike Cabaluna and Sunhee Ku.
